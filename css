@@ -1,0 +1,11 @@
+IA_Fantasiosa/
+├── data/
+├── models/
+├── notebooks/
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── model.py
+│   └── utils.py
+├── README.md
+└── requirements.txt
